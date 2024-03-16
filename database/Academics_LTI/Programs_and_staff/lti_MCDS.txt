@@ -1,0 +1,174 @@
+Master of Computational Data Science
+The Master of Computational Data Science (MCDS) program focuses on engineering and deploying large-scale information systems, and includes concentrations in Systems, Analytics, and Human-Centered Data Science.
+
+Overview
+The MCDS degree focuses on engineering and deploying large-scale information systems. Our comprehensive curriculum equips you with the skills and knowledge to develop the layers of technology involved in the next generation of massive information system deployments and analyze the data these systems generate. When you graduate, you’ll have a unified vision of these systems from your core courses; internship experience; and semester-long, group-oriented capstone project. MCDS graduates are sought-after software engineers, data scientists and project managers at leading information technology, software services and social media companies.
+Requirements
+The MCDS program offers three majors: Systems, Analytics, and Human-Centered Data Science. All three require the same total number of course credits, split among required core courses, electives, data science seminar and capstone courses specifically defined for each major. The degree can also be earned in two different ways, depending on the length of time you spend working on it. Regardless of the timing option, all MCDS students must complete a minimum of 144 units to graduate.
+
+Here are the options:
+
+Standard Timing — a 16-month degree consisting of study for fall and spring semesters, a summer internship, and fall semester of study. Each semester comprises a minimum of 48 units. This timing is typical for most students. Students graduate in December.
+Extended Timing — a 20-month degree consisting of study for fall and spring semesters, a summer internship, and a second year of fall and spring study. Each semester comprises a minimum of 36 units. Students graduate in May.
+For a complete overview of the MCDS requirements read the MCDS Handbook.
+
+Curriculum
+To earn an MCDS degree, students must pass courses in the core curriculum, the MCDS seminar, a concentration area, and electives. Students must also complete a capstone project in which they work on a research project at CMU or on an industry-sponsored project.
+
+In total, students must complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses, and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+
+Students who plan to select the Systems concentration may wish to enroll in 15-513 “Introduction to Computing Systems” during the summer session preceding their enrollment in the program; this course is a prerequisite for many advanced Systems courses, so it should be completed during Summer if you wish to enroll in advanced Systems courses in the Fall.
+
+Click here to see the MCDS Course Map.
+
+Some example courses of study are included below.
+
+Example 1: Analytics Major, 16 Months
+
+
+Year 1
+Fall
+Data Science Seminar
+Machine Learning
+Machine Learning for Text Mining
+Advanced Machine Learning
+Design and Engineering of Intelligent Information Systems
+Big Data Analytics
+
+Spring
+Data Science Seminar
+Capstone Planning Seminar
+Machine Learning with Big Data Sets
+Cloud Computing
+Information Systems Project
+Search Engines
+Multimedia Databases and Data Mining
+Large Scale Multimedia Analysis
+
+Summer
+Summer Internship
+
+Year 2	
+Data Science Analytics Capstone
+
+
+Example 2: Systems Major, 16 Months
+
+Year 1	
+Fall
+Computational Data Science Seminar
+Advanced Storage Systems
+Cloud Computing
+Distributed Systems
+Machine Learning
+
+Spring
+Computational Data Science Seminar
+Parallel Computer Architecture and Programming
+Advanced Databases
+Search Engines
+
+Summer
+
+Summer Internship
+
+Year 2
+Fall
+Computational Data Science Systems Capstone
+Operating Systems or Web Applications
+
+Example 3: Human-Centered Data Science Major, 16 Months
+Example Schedule	
+
+Empirical Analysis of Interactive Systems
+Fall
+ML
+Econometrics
+Social Web
+Network Science
+Business Analytics
+
+Spring
+Interactive Data Science
+Psych Found for Design Impact
+Econometrics
+DHCS
+
+Social Web Analytics & Design
+Fall
+ML
+ARM
+Social Web
+Network Science
+
+Spring
+Crowd Programming
+Data Pipeline
+ML for Text Analytics
+DHCS
+
+Ubiquitous Computing
+Fall
+DHCS
+ML
+ARM
+
+Spring
+Interactive Data Science
+Rapid Prototyping
+Gadgets
+Usable Priv & Security
+Advanced ML
+
+Educational Software Design
+Fall
+DHCS
+ML
+ARM
+Learning Analytics and EDS
+
+Spring
+Learning with Peers
+Psych Found for Design Impact
+ML with Big Data
+ML with Text Analysis
+
+Admissions
+Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 is now closed. Information about the Fall 2025 admissions cycle will be available in summer 2024.
+
+Application Deadlines: TBA
+Cost: TBA
+
+Fee Waivers
+
+Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver page.
+
+Requirements
+
+The School of Computer Science requires the following for all graduate program applications:
+
+GRE scores: GREs are now optional, but if you want to submit GRE scores:
+These must be less than five years old. A GRE subject test in science, engineering, computer science, math, etc. is not required, but you may complete one and submit the scores if you wish. Our Institution Code is 2074; Department Code is 0402.
+If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), an official copy of an English proficiency score report is required. The English proficiency requirement cannot be waived for any reason. Find more information under "Test Scores" on our FAQ page.
+Successful applicants will have a minimum TOEFL score of 100. Our Institution Code is 4256; the Department Code is 78.
+Official transcripts from each university you have attended, regardless of whether you received your degree there.
+Current resume.
+Statement of Purpose.
+Three letters of recommendation.
+For more details on these requirements, please see the SCS Master's Admissions page.
+
+In addition to the SCS guidelines, the LTI requires:
+
+Any outside funding you are receiving must be accompanied by an official award letter.
+No incomplete applications will be eligible for consideration.
+
+For specific application/admissions questions, please contact Jennifer Lucas or Caitlin Korpus.
+
+Program Contact
+For more information about the MCDS program, contact Jennifer Lucas.
+
+Jennifer Lucas
+Academic Program Manager - MCDS
+Office: 6415 Gates & Hillman Centers
+Email: jmlucas@cs.cmu.edu
+Phone: 412-268-9870
